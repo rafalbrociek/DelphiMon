@@ -1,0 +1,2 @@
+# DelphiMon
+Mój projekt Delphi
